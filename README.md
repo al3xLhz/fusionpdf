@@ -15,20 +15,6 @@ python fusionpdf.py documento1.pdf documento2.pdf documento3.pdf
 ```
 El resultado será un archivo llamado nombre_de_la_carpeta_actual.pdf generado en la misma carpeta.
 
-## ⚙️ Requisitos
-
-- Python 3.6 o superior
-- Las dependencias necesarias están listadas en `requirements.txt`.
-
-Instálalas fácilmente con:
-
-```bash
-pip install -r requirements.txt
-```
-
-Y también puedes agregar una línea en la parte superior del README para que el usuario sepa clonar tu proyecto:
-
-
 ## 📦 Instalación
 
 Clona este repositorio y entra a la carpeta:
@@ -52,7 +38,7 @@ Si quieres ejecutar el script desde cualquier carpeta escribiendo simplemente `f
 
     ```powershell
     function fusionpdf {
-        python "C:\Users\alizarazo\Documents\github\fusionpdf\fusionpdf.py" $args
+        python "C:\ruta\a\tu\proyecto\fusionpdf.py" $args
     }
     ```
 
