@@ -50,7 +50,7 @@ Si quieres ejecutar el script desde cualquier carpeta escribiendo simplemente `f
 
 ### 📂 Antes de ejecutar
 
-![Antes de ejecutar](images/antes.png)
+![Antes de ejecutar](SinConfig.png)
 
 ### ⚙️ Ejecutando el comando
 
