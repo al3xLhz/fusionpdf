@@ -52,7 +52,12 @@ Si quieres ejecutar el script desde cualquier carpeta escribiendo simplemente `f
 
 ![Antes de ejecutar](SinConfig.png)
 
+### 📂 Despues de configurar 
+
+![Antes de ejecutar](ConConfig.png)
+
 ### ⚙️ Ejecutando el comando
 
 ```bash
 fusionpdf documento1.pdf documento2.pdf documento3.pdf
+```
